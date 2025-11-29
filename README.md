@@ -1,11 +1,6 @@
 So this tool is given by infineon tech that helps user to update tpm firmware using linux os platform , In my system I am using rasberr pi .. 
 information about my tpm is given below :
 Date : Saturday 29 November 2025 11:27:22 PM IST
-oot@raspberrypi:~/eltt2# ls
-eltt2  eltt2.c  eltt2.h  License.txt  Makefile  README.md  README.txt
-root@raspberrypi:~/eltt2# ./eltt2 -g
-
-
 TPM capability information of fixed properties:
 =========================================================
 TPM_PT_FAMILY_INDICATOR:        2.0
@@ -23,6 +18,3 @@ TPM_PT_MEMORY:
 Shared RAM:                     0 CLEAR
 Shared NV:                      0 CLEAR
 Object Copied To Ram:           1 SET
-
-
-root@raspberrypi:~/eltt2# 
